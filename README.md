@@ -12,7 +12,7 @@ A modern chat interface built with Streamlit and LangChain, leveraging Groq's po
 
 ## 🛠️ Prerequisites
 
-- Python 3.8 or higher
+- Python 3.12 or higher
 - Groq API key
 - LangChain API key (for tracing)
 
