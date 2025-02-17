@@ -20,8 +20,8 @@ A modern chat interface built with Streamlit and LangChain, leveraging Groq's po
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/francescofano/streamlit-basic-assistant
+   cd streamlit-basic-assistant
    ```
 
 2. Create and activate a virtual environment:
